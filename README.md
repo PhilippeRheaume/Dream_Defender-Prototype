@@ -7,9 +7,7 @@ Logiciel/Language: Unreal Engine 4 (Blueprints)
 
 Équipe:
 Antoine Brouillette
-
 Marc-André Fortin-Leclerc
-
 Simon Gervais
 Valérie Grenon-Fréchet
 Étienne Malépart

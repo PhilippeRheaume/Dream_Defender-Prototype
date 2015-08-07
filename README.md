@@ -13,6 +13,6 @@ Logiciel/Language: Unreal Engine 4 (Blueprints)
 * Étienne Malépart
 * Pierre-Luc Messier
 * François Prévost
-* Philippe Rhéaume
+* Philippe Rheaume
 * Rui Sequeira
 * Thierry St-Gelais

@@ -6,13 +6,13 @@ Dream Defender est un prototype de jeu réalisé dans le cadre d'un cours de ré
 Logiciel/Language: Unreal Engine 4 (Blueprints)
 
 Équipe:
-Antoine Brouillette
-Marc-André Fortin-Leclerc
-Simon Gervais
-Valérie Grenon-Fréchet
-Étienne Malépart
-Pierre-Luc Messier
-François Prévost
-Philippe Rhéaume
-Rui Sequeira
-Thierry St-Gelais
+* Antoine Brouillette
+* Marc-André Fortin-Leclerc
+* Simon Gervais
+* Valérie Grenon-Fréchet
+* Étienne Malépart
+* Pierre-Luc Messier
+* François Prévost
+* Philippe Rhéaume
+* Rui Sequeira
+* Thierry St-Gelais

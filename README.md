@@ -6,6 +6,8 @@ Dream Defender est un prototype de jeu réalisé dans le cadre d'un cours de ré
 Logiciel/Language: Unreal Engine 4 (Blueprints)
 
 Équipe:
+
+* Philippe Rheaume
 * Antoine Brouillette
 * Marc-André Fortin-Leclerc
 * Simon Gervais
@@ -13,6 +15,5 @@ Logiciel/Language: Unreal Engine 4 (Blueprints)
 * Étienne Malépart
 * Pierre-Luc Messier
 * François Prévost
-* Philippe Rheaume
 * Rui Sequeira
 * Thierry St-Gelais
